@@ -1,0 +1,5 @@
+rootProject.name = 'sample-module'
+include 'sample-api'
+include 'sample-domain'
+include 'sample-batch'
+
